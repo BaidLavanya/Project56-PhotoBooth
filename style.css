@@ -1,0 +1,18 @@
+.img1{
+    Width:300px;
+}
+
+#1{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+body{
+    text-align: center;
+    background-color: bisque;
+}
+
+h1{
+    font-size:50px;
+    color: deeppink;
+}
